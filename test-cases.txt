@@ -1,0 +1,7 @@
+./element.sh
+./element.sh 1
+./element.sh H
+./element.sh Hydrogen
+./element.sh 9
+./element.sh 10
+./element.sh 999
